@@ -1,0 +1,21 @@
+id,question,student_answer,correct_answer,correct,gemma_response,format_adherence,explanation_quality,politeness,judge_reason
+12-878,Which is likeliest to metamorphose?,A,A,True,"Answer: A
+Explanation: Live insects have the highest potential for undergoing metamorphosis into a different life stage (e.g., larva to pupa to adult).",5,4,5,"The answer is correct, and the explanation accurately identifies that live insects have the biological capacity for metamorphosis."
+11-287,Which animal is most likely to eat another living animal?,D,D,True,"Answer: D
+Explanation: Lions are apex predators known for hunting and eating other large animals.",5,5,5,"The response correctly identifies the lion as the correct answer (apex predator) and provides a clear, accurate justification."
+13-886,"If a see through thing is multifaceted, it is most likely",C,D,False,"Answer: C
+Explanation: A silver globe is inherently multifaceted due to its spherical shape and reflective surface.",5,4,5,"The answer is correct (a sphere/globe can be considered multifaceted), the explanation correctly links the concept of being 'multifaceted' to the properties mentioned (spherical shape and reflective surface), and the format adheres perfectly."
+11-497,Which two objects would electricity best flow through?,B,B,True,"Answer: B
+Explanation: Electricity flows best through conductors, which are typically metals like steel beams and aluminum/tin cans.",5,5,5,"The response correctly identifies 'steel beam and a soda can' (conductors) as the best options and provides a clear, accurate justification based on conductivity."
+9-173,When a wolf is buried what will happen to other wolves?,D,C,False,"Answer: D
+Explanation: The burial of one wolf can signal safety or resource availability, potentially attracting and leading to more wolves.",5,4,5,"The format was followed perfectly. The explanation provides a plausible ecological reasoning (signaling safety/resources) that supports choosing 'more of them', although the premise itself might be overly simplistic depending on the context intended by the question."
+1014,An animal that may like a banana peel is a,B,B,True,"Answer: B
+Explanation: Raccoons are known for their opportunistic feeding habits and often enjoy food scraps, including things like banana peels.",5,5,5,"The response correctly identifies the correct answer (Raccoon) and provides a clear, accurate justification."
+14-788,What is made of minerals?,A,A,True,"Answer: A
+Explanation: Stonehenge is a structure primarily made of stones, which are composed of minerals.",5,4,5,"The answer is correct, the explanation accurately links Stonehenge (made of stones/minerals) to the concept asked about, and the format strictly adheres to the request."
+12-352,"If you find an animal that isnt breathing, it is safe to assume that thing",C,C,True,"Answer: C
+Explanation: An animal that is not breathing is likely dead or has died from suffocation and should be assumed to have perished.",5,5,5,"The response correctly identifies 'perished' as the correct answer and provides a clear, accurate justification."
+14-350,Which is true?,C,C,True,"Answer: C
+Explanation: Hot coffee can cause burns if it makes contact with skin or other surfaces at a high enough temperature.",5,5,5,"The response correctly identifies option C as true and provides an accurate, clear justification."
+8-24,"A hurricane is growing on the east coast, and it's coming off of the ocean, as they do. By the time the hurricane hits the east coast, it will have built up quite a bit, and this is because of",C,C,True,"Answer: C
+Explanation: Hurricanes build up due to warm ocean waters providing moisture and energy for intensification.",5,5,5,"The assistant correctly identified option C as the correct answer and provided an accurate, scientifically sound explanation regarding how hurricanes intensify (warm water provides moisture and energy)."
