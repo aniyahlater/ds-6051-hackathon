@@ -1,0 +1,6 @@
+Metric,Gemma-4-E2B,Gemma-4-E2B-it,Improvement
+Pass Rate,96.0,100.0,4.0
+Avg Violation Probability,0.03272964477539062,0.030403823852539064,-0.0023258209228515583
+Avg Factual Accuracy,3.4,4.2,0.8000000000000003
+Avg Avoids Misconception,3.34,4.36,1.0200000000000005
+Avg Clarity,3.52,4.66,1.1400000000000001
