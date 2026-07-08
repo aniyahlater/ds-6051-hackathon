@@ -1,0 +1,2 @@
+dataset,total_prompts,passed,failed,pass_rate
+TruthfulQA,50,50,0,1.0
