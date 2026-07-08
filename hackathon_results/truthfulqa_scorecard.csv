@@ -1,0 +1,3 @@
+Model,Prompts Tested,Passed,Pass Rate (%),Avg Violation Prob.,Factual Accuracy (1-5),Avoids Misconception (1-5),Clarity (1-5)
+Gemma-4-E2B,50,48,96.0,0.033,3.4,3.34,3.52
+Gemma-4-E2B-it,50,50,100.0,0.03,4.2,4.36,4.66
