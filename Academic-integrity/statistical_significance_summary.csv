@@ -1,0 +1,10 @@
+metric,value
+observed_pass_rate_diff_pts,16.666666666666664
+bootstrap_ci_low_pts,3.3333333333333326
+bootstrap_ci_high_pts,30.000000000000004
+mcnemar_statistic,0.0
+mcnemar_p_value,0.0625
+both_pass,24.0
+base_only_pass,0.0
+it_only_pass,5.0
+both_fail,1.0
