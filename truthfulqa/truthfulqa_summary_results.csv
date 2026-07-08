@@ -1,3 +1,0 @@
-model_name,total_prompts,passed,pass_rate,avg_violation_probability,avg_factual_accuracy,avg_avoids_misconception,avg_clarity
-Gemma-4-E2B,50,48,96.0,0.03272964477539062,3.4,3.34,3.52
-Gemma-4-E2B-it,50,50,100.0,0.030403823852539064,4.2,4.36,4.66
