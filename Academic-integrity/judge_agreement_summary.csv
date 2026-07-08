@@ -1,0 +1,4 @@
+comparison,cohens_kappa,simple_agreement_rate
+ShieldGemma vs Human,0.0,0.9
+Quality Judge vs Human,0.0,0.75
+ShieldGemma vs Quality Judge,0.16666666666666663,0.75
